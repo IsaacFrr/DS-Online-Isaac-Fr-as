@@ -1,0 +1,114 @@
+[
+  {
+    "file": "Sprint_13/Unidad_01_ML_No_Supervisado_Clustering_KMeans/01_Workout/04_kmeans.ipynb",
+    "status": "OK",
+    "seconds": 18.5,
+    "code_cells": 57,
+    "sha256": "ef63a27ef78fd0a0edc2918eef0a78488f042c5e41b13c88412a94c16037e91b"
+  },
+  {
+    "file": "Sprint_13/Unidad_01_ML_No_Supervisado_Clustering_KMeans/02_Ejercicios_Workout/13_Ejercicios_K-Means.ipynb",
+    "status": "OK",
+    "seconds": 14.4,
+    "code_cells": 12,
+    "sha256": "0ef0f50099151ee1fb1f481f5cac715cb2ade97f80d96f8f8425b3fe3f09ea58"
+  },
+  {
+    "file": "Sprint_13/Unidad_01_ML_No_Supervisado_Clustering_KMeans/03_Practica_Obligatoria/18_Practica_Obligatoria_Clustering_KMeans.ipynb",
+    "status": "OK",
+    "seconds": 24.8,
+    "code_cells": 15,
+    "sha256": "5eeede3e301f18f43c46b9b1932853f5be4aca767b9c8c9c839df31c929f2f85"
+  },
+  {
+    "file": "Sprint_13/Unidad_02_ML_No_Supervisado_Clustering_DBSCAN/01_Workout/01_DBSCAN.ipynb",
+    "status": "OK",
+    "seconds": 8.8,
+    "code_cells": 19,
+    "sha256": "835d50e69c4e4856986d060acbcc48e06eaf19eb7c4f143d939c133ce3ee0f56"
+  },
+  {
+    "file": "Sprint_13/Unidad_02_ML_No_Supervisado_Clustering_DBSCAN/01_Workout/02_Clustering_Jerarquico.ipynb",
+    "status": "OK",
+    "seconds": 12.2,
+    "code_cells": 21,
+    "sha256": "5b36ebd0befcc3df77b85b961313da8dd0bf14a81d9948f04e954985908facbc"
+  },
+  {
+    "file": "Sprint_13/Unidad_02_ML_No_Supervisado_Clustering_DBSCAN/02_Ejercicios_Workout/13_Ejercicios_DBSCAN.ipynb",
+    "status": "OK",
+    "seconds": 19.3,
+    "code_cells": 12,
+    "sha256": "a4834a2acc46e6e94f3a449e63d4b51cdf4c8701022baf355376cf275b6a36f5"
+  },
+  {
+    "file": "Sprint_13/Unidad_02_ML_No_Supervisado_Clustering_DBSCAN/02_Ejercicios_Workout/14_Ejercicios_Clustering_Jerarquico.ipynb",
+    "status": "OK",
+    "seconds": 11.7,
+    "code_cells": 14,
+    "sha256": "5c2d07d705ce6da8d7933154b043ea0b30897ad0c33f73c95883ed8fce3c1bf2"
+  },
+  {
+    "file": "Sprint_13/Unidad_02_ML_No_Supervisado_Clustering_DBSCAN/03_Practica_Obligatoria/18_Practica_Obligatoria_Clustering_DBSCAN.ipynb",
+    "status": "OK",
+    "seconds": 7.7,
+    "code_cells": 4,
+    "sha256": "59e137544c6fbb0263cedf543a013c94bb806bb2cf4cdd7ec9a950a6cef1a798"
+  },
+  {
+    "file": "Sprint_14/Unidad_01_ML_No_Supervisado_PCA/01_Workout/04_PCA_Practico.ipynb",
+    "status": "OK",
+    "seconds": 4.4,
+    "code_cells": 22,
+    "sha256": "b33e60da2918ec04b6c279b0143a2041b2766eda9de612da63b6def049b0f90d"
+  },
+  {
+    "file": "Sprint_14/Unidad_01_ML_No_Supervisado_PCA/01_Workout/05_PCA_aplicado_Modelos.ipynb",
+    "status": "OK",
+    "seconds": 12.6,
+    "code_cells": 27,
+    "sha256": "52ded3f2326139f48308b4792b00042cdc6eec63fbc344528d8f569878977254"
+  },
+  {
+    "file": "Sprint_14/Unidad_01_ML_No_Supervisado_PCA/01_Workout/06_PCA_Aplicado_Compresion.ipynb",
+    "status": "OK",
+    "seconds": 6.5,
+    "code_cells": 23,
+    "sha256": "9d6d6bf49e74fab051b3d1813e0deb06b7b33084f487eccb9ea1a38d0b4cfa12"
+  },
+  {
+    "file": "Sprint_14/Unidad_01_ML_No_Supervisado_PCA/02_Ejercicios_Workout/13_Ejercicios_Practica_PCA.ipynb",
+    "status": "OK",
+    "seconds": 6.4,
+    "code_cells": 11,
+    "sha256": "9b1967c28fec2f213d8456d25af72d395a3c4db3f159bd26ed4d2e7cf25d75d8"
+  },
+  {
+    "file": "Sprint_14/Unidad_01_ML_No_Supervisado_PCA/03_Practica_Obligatoria/18_Practica_Obligatoria_No_Supervisado_PCA.ipynb",
+    "status": "OK",
+    "seconds": 14.8,
+    "code_cells": 5,
+    "sha256": "4c61477111f27f027674d4e891c550f07f50f38bdd9ec25409d753e39b16c7eb"
+  },
+  {
+    "file": "Sprint_14/Unidad_02_ML_No_Supervisado_Feature_Selection/01_Workout/01_Feature_Selection.ipynb",
+    "status": "OK",
+    "seconds": 69.8,
+    "code_cells": 45,
+    "sha256": "38f717005b60ea44a5f8ee7df191c3cd5ec831b16e924dadcd30e454cbea2d80"
+  },
+  {
+    "file": "Sprint_14/Unidad_02_ML_No_Supervisado_Feature_Selection/02_Ejercicios_Workout/13_Ejercicios_Feature_Selection.ipynb",
+    "status": "OK",
+    "seconds": 67.0,
+    "code_cells": 13,
+    "sha256": "9ca00a53b4a08f35bf49675481e3b105c1e58304f7b33c943d0d27b4b51cedc1"
+  },
+  {
+    "file": "Sprint_14/Unidad_02_ML_No_Supervisado_Feature_Selection/03_Practica_Obligatoria/18_Practica_Obligatoria_Feature_Selection.ipynb",
+    "status": "OK",
+    "seconds": 71.4,
+    "code_cells": 3,
+    "sha256": "4cd907289b5ed5eba99a89eeb078e8c0e9025c3774bd48b12775ebb47671bcb7"
+  }
+]
