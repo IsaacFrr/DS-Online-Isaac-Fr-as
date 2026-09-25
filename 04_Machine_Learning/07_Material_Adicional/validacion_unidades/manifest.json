@@ -1,0 +1,255 @@
+[
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/01_Workout/07_DL_Sklearn_Perceptron_MLP.ipynb",
+    "status": "OK",
+    "cells": 19,
+    "seconds": 6.1,
+    "sha256": "b5eef4a592b53f30c46d3fbf87bcd46faa7ccd6e80e27a43b8fa318e6b5e7902",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/02_Ejercicios_Workout/13_Ejercicios_DL_en_Sklearn.ipynb",
+    "status": "OK",
+    "cells": 9,
+    "seconds": 32.0,
+    "sha256": "57c30e924139c0ab5856dad4b5243201ad5f83ee4bbb9c18dea6c259111b5ecb",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Deep_Learning.ipynb",
+    "status": "OK",
+    "cells": 2,
+    "seconds": 100.9,
+    "sha256": "fe45cd6f736c762830d6607107f0f2f0e13069381c78612739c4a197f40e1b33",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/01_Workout/01_Intro_Keras.ipynb",
+    "status": "OK",
+    "cells": 56,
+    "seconds": 137.5,
+    "sha256": "29ec1483d0c1e7e963c781b2b89eade11931c21546684261c30dfe41e38a5056",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/02_Ejercicios_Workout/13_Ejercicios_Tutorial_Keras.ipynb",
+    "status": "OK",
+    "cells": 16,
+    "seconds": 153.7,
+    "sha256": "32154a8a6b03eaf398bec35c5fcdeb7c0205c464864aa85f09c405f876f2c79d",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Keras.ipynb",
+    "status": "OK",
+    "cells": 2,
+    "seconds": 27.6,
+    "sha256": "dc80b8365f68bf7fda02b0df9ab5d2d9665b5c6d6dc6c2c91cf97ea06964f4b4",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/01_Workout/05_Convolucional_Practico.ipynb",
+    "status": "OK",
+    "cells": 36,
+    "seconds": 40.0,
+    "sha256": "7e9dd254f90531314a084dad364ab7cfb765196d526a7264ccb92a9a3eba90c9",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/02_Ejercicios_Workout/13_Ejercicios_Practica_Redes_Convolucionales.ipynb",
+    "status": "OK",
+    "cells": 12,
+    "seconds": 283.0,
+    "sha256": "aad8dafc25235ca993fc838b2cf79232cdfda150d7a030cf7449f7517e6051a0",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/03_Practica_Obligatoria/18_Practica_Obligatoria_CNN_Redes_Convolucionales.ipynb",
+    "status": "OK",
+    "cells": 2,
+    "seconds": 89.2,
+    "sha256": "d6b1de33097278ffda6f21b9a24cbb913478b30260a1c96d64fb892c2b5d83b9",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_02_CNN_Transfer_Learning_Fine_Tuning/02_Ejercicios_Workout/13_Ejercicios_Transfer_Learning_Practico.ipynb",
+    "status": "OK",
+    "cells": 13,
+    "seconds": 566.4,
+    "sha256": "6ca0a92677ba17d0ab7e9d2fb40f71f42f51e08214f5c673d84715a23c2a7b1c",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_02_CNN_Transfer_Learning_Fine_Tuning/03_Practica_Obligatoria/18_Practica_Obligatoria_CNN_Transfer_Learning_Fine_Tuning.ipynb",
+    "status": "OK",
+    "cells": 1,
+    "seconds": 438.1,
+    "sha256": "38727780f3b3ad187b686eb61465adcf10a6d43362466f750e7376769b9dfd2b",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "05_Deep_Learning/Sprint_16/Unidad_03_RNN_Redes_Recurrentes/01_Workout/03_Series_Temporales_con_RNN.ipynb",
+    "status": "OK",
+    "cells": 64,
+    "seconds": 131.1,
+    "sha256": "3cdeeeff4d856a92ff305333b4beb446004c4c37dc964fdea762afd45e3e62cd",
+    "fecha": "2026-09-25",
+    "nota": "RNN_MAX_EPOCHS=50; no se certifica convergencia óptima ni test final"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_01_Entornos_Productivos/01_Workout/04_Repaso_APIs_I.ipynb",
+    "status": "OK",
+    "cells": 2,
+    "seconds": 4.1,
+    "sha256": "db3361a88ebe7a534fdd0579c1406999ebddd71cb81c864838c52f8552777bfb",
+    "fecha": "2026-09-25",
+    "nota": "REST Countries v3.1 retirado: descarga pública alternativa y filtrado local, no migración v5"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_01_Entornos_Productivos/02_Ejercicios_Workout/13_Ejercicio_Repaso_APIs.ipynb",
+    "status": "OK",
+    "cells": 12,
+    "seconds": 2.6,
+    "sha256": "5fb60b2fa837359d4b308b3d13d92c6981ab6227496bea9cd349ddef526560e8",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_01_Entornos_Productivos/04_Taller_API_REST_Local/01_Introduccion_Decoradores.ipynb",
+    "status": "OK",
+    "cells": 9,
+    "seconds": 5.3,
+    "sha256": "7f1a248acb09a4155a1137a3215cf133680da86b128a86479cad8d752bd18af7",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_01_Entornos_Productivos/04_Taller_API_REST_Local/02_Taller_API_REST_Local_Flask.ipynb",
+    "status": "OK",
+    "cells": 12,
+    "seconds": 1.1,
+    "sha256": "8a9c53d3e355ddf660c60ba265d00fdc0c075b09e8af210a39f3d4c45f0815ba",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_02_APIs_Produccion/04_Taller_Despliegue_Sencillo/01_Taller_Despliegue_Parte_I_API_Local.ipynb",
+    "status": "OK",
+    "cells": 2,
+    "seconds": 11.7,
+    "sha256": "d9488fa43ba28645c9c41ca62d6ed19dd5ad0e16ce0f10d46adaa4344c3956dd",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_18/Unidad_01_Cloud_Computing/04_Taller_AWS_1_EC2_API_Flask/01_Taller_AWS_1_EC2_API_Flask.ipynb",
+    "status": "OK",
+    "cells": 1,
+    "seconds": 5.2,
+    "sha256": "1eb89d330e76b9aa05bf3f3552aaad9377e1824eb4fc8a91215be1ec60e1b70f",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_18/Unidad_02_BBDD_en_Cloud/04_Taller_AWS_2_RDS_PostgreSQL/flask_sqlalchemy_cheatsheet.ipynb",
+    "status": "OK",
+    "cells": 10,
+    "seconds": 5.2,
+    "sha256": "e5e74a9c254d2fe717b9af5f87f2d43a730138c6a61053ae3bf731243c736c0f",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_01/Unidad_01_ML_Time_Series/02_Ejercicios_Workout/13_Ejercicios_Series_Temporales.ipynb",
+    "status": "OK",
+    "cells": 12,
+    "seconds": 9.5,
+    "sha256": "2a38f6f85b8d0282b2fde8e1ab61811f5e18d6cc89513f063fddbadc1fef62c9",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_01/Unidad_02_ML_NLP/02_Ejercicios_Workout/13_Ejercicios_NLP.ipynb",
+    "status": "OK",
+    "cells": 14,
+    "seconds": 9.6,
+    "sha256": "732935e5d764304bd02d44d88d6c53adcf68117b91d45ad681803cf97fadc1ef",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_01_Big_Data_Spark/00_Notebooks_Spark_para_Local/pyspark_basics_local.ipynb",
+    "status": "OK",
+    "cells": 112,
+    "seconds": 34.3,
+    "sha256": "c800b4d7b315e3ca499b87d1c780a812b5fefd2ca3c493f3d3ea71d803c10c3a",
+    "fecha": "2026-09-25",
+    "nota": "Ejecutado con Spark local, no en Databricks"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_01_Big_Data_Spark/00_Notebooks_Spark_para_Local/pyspark_ml_example.ipynb",
+    "status": "OK",
+    "cells": 16,
+    "seconds": 20.3,
+    "sha256": "7272b0493b721d1d988ed3aaf483b417d100b5b4e07c8cc244e7a098a371e327",
+    "fecha": "2026-09-25",
+    "nota": "Ejecutado con Spark local, no en Databricks"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_01_Big_Data_Spark/03_Practica_Opcional/18_Practica_Opcional_Big_Data_Spark.ipynb",
+    "status": "OK",
+    "cells": 16,
+    "seconds": 127.1,
+    "sha256": "93bfdc8207fd90b5922541aee52f9a65617cfed09962de0f207aa61b2eacd8e4",
+    "fecha": "2026-09-25",
+    "nota": "Ejecutado con Spark local, no en Databricks"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/03_En_el_gym_1_nb.ipynb",
+    "status": "OK",
+    "cells": 13,
+    "seconds": 6.2,
+    "sha256": "b867e05220d979d848070eac5a0240cb41d76d3510ede4c01611bd53c86d1c60",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/04_En_el_gym_2_nb.ipynb",
+    "status": "OK",
+    "cells": 8,
+    "seconds": 12.1,
+    "sha256": "b85ac875592597879e9c98616e9dbb18e848a27fb35386717634180ba9e579e6",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/05_SmartCab_intro_nb.ipynb",
+    "status": "OK",
+    "cells": 7,
+    "seconds": 3.6,
+    "sha256": "023e8177db6bef888cdb286c0126b0e398956b7fed4fe97dac04ba806192d317",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/06_Dancing_SmartCab_wo_RL_nb.ipynb",
+    "status": "OK",
+    "cells": 7,
+    "seconds": 10.7,
+    "sha256": "2d5aa4fe32d551148faeb6aa24bcaf72611a11a371de1f44a9475566601273ed",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/09_RLed_SmartCab_I_implementacion_nb.ipynb",
+    "status": "OK",
+    "cells": 9,
+    "seconds": 65.1,
+    "sha256": "66f828fa4a86a77da7f05851f29326414aee69dc7c776d3192c41f04affea034",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/01_Workout/10_RLed_SmartCab_II_evaluacion_nb.ipynb",
+    "status": "OK",
+    "cells": 11,
+    "seconds": 11.8,
+    "sha256": "b95125845dd8ba16af9b0b937c5c41e93b8f49c7fe32b9ab44106fcb976146d8",
+    "fecha": "2026-09-25"
+  },
+  {
+    "path": "07_Material_Adicional/Extra_02/Unidad_02_ML_Aprendizaje_Por_Refuerzo/03_Practica_Opcional/18_Practica_Opcional_Aprendizaje_Por_Refuerzo.ipynb",
+    "status": "OK",
+    "cells": 18,
+    "seconds": 22.4,
+    "sha256": "629f3607cf36305990e77ae97484a43740e7ebd8f2f72e155233d94cf269fb0e",
+    "fecha": "2026-09-25"
+  }
+]

@@ -1,0 +1,20 @@
+[
+  {
+    "path": "06_Data_Engineering/Sprint_18/Unidad_02_BBDD_en_Cloud/04_Taller_AWS_2_RDS_PostgreSQL/proyecto-base/test_api_local.py",
+    "exit_code": 0,
+    "stdout": "OK: inferencia, entradas inválidas, nulos, reentrenamiento, recarga, persistencia y HTTP local.\n",
+    "stderr": "127.0.0.1 - - [25/Sep/2026 07:56:57] \"GET /api/v1/predict?tv=100&radio=20&newspaper=10 HTTP/1.1\" 200 -\n"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_18/Unidad_01_Cloud_Computing/04_Taller_AWS_1_EC2_API_Flask/proyecto-base/test_api_local.py",
+    "exit_code": 0,
+    "stdout": "OK: inferencia, entradas inválidas, nulos, reentrenamiento, recarga, persistencia y HTTP local.\n",
+    "stderr": "127.0.0.1 - - [25/Sep/2026 07:57:00] \"GET /api/v1/predict?tv=100&radio=20&newspaper=10 HTTP/1.1\" 200 -\n"
+  },
+  {
+    "path": "06_Data_Engineering/Sprint_17/Unidad_02_APIs_Produccion/04_Taller_Despliegue_Sencillo/test_api_local.py",
+    "exit_code": 0,
+    "stdout": "OK: inferencia, entradas inválidas, nulos, reentrenamiento, recarga, persistencia y HTTP local.\n",
+    "stderr": "127.0.0.1 - - [25/Sep/2026 07:57:02] \"GET /api/v1/predict?tv=100&radio=20&newspaper=10 HTTP/1.1\" 200 -\n"
+  }
+]
