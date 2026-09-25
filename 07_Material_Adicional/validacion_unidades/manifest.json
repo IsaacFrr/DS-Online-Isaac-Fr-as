@@ -3,49 +3,55 @@
     "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/01_Workout/07_DL_Sklearn_Perceptron_MLP.ipynb",
     "status": "OK",
     "cells": 19,
-    "seconds": 6.1,
-    "sha256": "b5eef4a592b53f30c46d3fbf87bcd46faa7ccd6e80e27a43b8fa318e6b5e7902",
-    "fecha": "2026-09-25"
+    "seconds": 16.8,
+    "sha256": "f965b45d3305e7d81d29de4b4421d449e1f4c886f23710f193f9cf1a1fa89104",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/02_Ejercicios_Workout/13_Ejercicios_DL_en_Sklearn.ipynb",
     "status": "OK",
     "cells": 9,
-    "seconds": 32.0,
-    "sha256": "57c30e924139c0ab5856dad4b5243201ad5f83ee4bbb9c18dea6c259111b5ecb",
-    "fecha": "2026-09-25"
+    "seconds": 7.1,
+    "sha256": "6d9f6cbdb8c3cc4d8a4baed8bcd4c088cb3f00e42ba1a566aca097ec81a57855",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Deep_Learning.ipynb",
     "status": "OK",
     "cells": 2,
-    "seconds": 100.9,
-    "sha256": "fe45cd6f736c762830d6607107f0f2f0e13069381c78612739c4a197f40e1b33",
-    "fecha": "2026-09-25"
+    "seconds": 264.5,
+    "sha256": "47c360d43b62db0bc66123b38ca7bc05d62324039c39c16c0487aa6ae65bcd16",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/01_Workout/01_Intro_Keras.ipynb",
     "status": "OK",
     "cells": 56,
-    "seconds": 137.5,
-    "sha256": "29ec1483d0c1e7e963c781b2b89eade11931c21546684261c30dfe41e38a5056",
-    "fecha": "2026-09-25"
+    "seconds": 137.9,
+    "sha256": "96c08006ed365e54b54eb2dd2538c075d6543b530f4b9460fa4ea5775bbc8f99",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/02_Ejercicios_Workout/13_Ejercicios_Tutorial_Keras.ipynb",
     "status": "OK",
     "cells": 16,
-    "seconds": 153.7,
-    "sha256": "32154a8a6b03eaf398bec35c5fcdeb7c0205c464864aa85f09c405f876f2c79d",
-    "fecha": "2026-09-25"
+    "seconds": 153.3,
+    "sha256": "304f9b9f2ffed0a842f6469b0f69fbd4f0801653246c2682051d5cf0b9858d2a",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Keras.ipynb",
     "status": "OK",
     "cells": 2,
-    "seconds": 27.6,
-    "sha256": "dc80b8365f68bf7fda02b0df9ab5d2d9665b5c6d6dc6c2c91cf97ea06964f4b4",
-    "fecha": "2026-09-25"
+    "seconds": 22.0,
+    "sha256": "066ae46fc8172c4481159d55988538b9d7fb581821b90feff0441689b8d15c00",
+    "fecha": "2026-09-25",
+    "revision": "Corrección de avisos Sprint 15: Keras Input, métricas explícitas y diagnóstico local de convergencia"
   },
   {
     "path": "05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/01_Workout/05_Convolucional_Practico.ipynb",

@@ -29,12 +29,12 @@ Se ejecutaron desde un kernel nuevo **31 notebooks**, con **523 celdas de códig
 
 | Notebook | Celdas | Segundos |
 |---|---:|---:|
-| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/01_Workout/07_DL_Sklearn_Perceptron_MLP.ipynb | 19 | 6.1 |
-| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/02_Ejercicios_Workout/13_Ejercicios_DL_en_Sklearn.ipynb | 9 | 32.0 |
-| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Deep_Learning.ipynb | 2 | 100.9 |
-| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/01_Workout/01_Intro_Keras.ipynb | 56 | 137.5 |
-| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/02_Ejercicios_Workout/13_Ejercicios_Tutorial_Keras.ipynb | 16 | 153.7 |
-| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Keras.ipynb | 2 | 27.6 |
+| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/01_Workout/07_DL_Sklearn_Perceptron_MLP.ipynb | 19 | 16.8 |
+| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/02_Ejercicios_Workout/13_Ejercicios_DL_en_Sklearn.ipynb | 9 | 7.1 |
+| 05_Deep_Learning/Sprint_15/Unidad_01_DL_Introduccion/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Deep_Learning.ipynb | 2 | 264.5 |
+| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/01_Workout/01_Intro_Keras.ipynb | 56 | 137.9 |
+| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/02_Ejercicios_Workout/13_Ejercicios_Tutorial_Keras.ipynb | 16 | 153.3 |
+| 05_Deep_Learning/Sprint_15/Unidad_02_Introduccion_Keras/03_Practica_Obligatoria/18_Practica_Obligatoria_Introduccion_Keras.ipynb | 2 | 22.0 |
 | 05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/01_Workout/05_Convolucional_Practico.ipynb | 36 | 40.0 |
 | 05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/02_Ejercicios_Workout/13_Ejercicios_Practica_Redes_Convolucionales.ipynb | 12 | 283.0 |
 | 05_Deep_Learning/Sprint_16/Unidad_01_CNN_Redes_Convolucionales/03_Practica_Obligatoria/18_Practica_Obligatoria_CNN_Redes_Convolucionales.ipynb | 2 | 89.2 |
@@ -98,3 +98,5 @@ Ver `README.md`, `requirements-lock.txt`, `ejecutar.py`, `manifest.json` y `prue
 El material está tanto en las carpetas de la raíz como en sus copias bajo `04_Machine_Learning`. Se sincronizaron los notebooks y archivos de soporte modificados; no se movieron ni borraron los datos del usuario. No se incluyen cachés, modelos generados ni el entorno virtual.
 
 Los cambios previos en Sprint 11/12 y los archivos ajenos a estas unidades no forman parte de esta entrega.
+
+Revisión de avisos Sprint 15: seis cuadernos reejecutados tras actualizar Keras, métricas y diagnóstico de convergencia. Ver `05_Deep_Learning/Sprint_15/AVISOS_Y_VALIDACION.md`.
